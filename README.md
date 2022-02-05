@@ -10,7 +10,7 @@
 
 - 📧 Connect on Gmail **aky8507049610@gmail.com**
 
-- ⚡ Fun fact **I am not engineer 😊**
+- ⚡ Fun fact **I am engineer 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
