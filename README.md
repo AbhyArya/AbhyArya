@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer who learning Web-Development</h3>
 
 
-- 🔭 I’m currently working on **CRUD-APP**
+<!-- - 🔭 I’m currently working on **CRUD-APP** -->
 
-- 🌱 I’m currently learning **Web-Development**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬ask me about **Web-Development**
 
